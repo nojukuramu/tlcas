@@ -1,6 +1,6 @@
 # Tagalog Casual Web Corpus
 
-This is a pre processed data of PUSH SHIFT Release of Subreddits. This Includes all Philippines Subreddit available to the public. The data is pre processed to only include sentences with atleast 15% of tagalog words. This include additional data from publicly released filipino stories from Wattpad 
+This is a pre processed data of PUSH SHIFT Release of Subreddits. This Includes all Philippines Subreddit available to the public. The data is pre processed to only include sentences with atleast 15% (for med and higher. 50% for small) of tagalog words. This include additional data from publicly released filipino stories from Wattpad 
 <hr>
 
 ### tl-cas_med
